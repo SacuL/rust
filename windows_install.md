@@ -6,7 +6,7 @@
 
 The recommended installation method for Windows is through the [RUSTUP-INIT.EXE tool](https://www.rust-lang.org/tools/install).
 
-The setup will first ask if you want to customize the intallation. Selection the default values by selecting "1".
+The setup will first ask if you want to customize the intallation. Select the default values by typing "1".
 
 ![windows_install_1](images/windows_install_1.png)
 
@@ -28,7 +28,7 @@ Depending on your network configuration you will have to specify your domain, us
 ```powershell
 > $proxy='http://<DOMAIN>%5C<USER>:<PASSWORD>@<IP>:<PORT>'
 ```
-Note that ```%5C``` is the code for backslash.
+Note that `5C` is the code for backslash.
 Finally update the ENV variable and execute the tool:
 ```powershell
 > $ENV:HTTP_PROXY=$proxy 
@@ -38,4 +38,4 @@ Finally update the ENV variable and execute the tool:
 
 ![windows_install_proxy_1](images/windows_install_proxy_1.png)
 
-Now you can proceed with as a regular installation.
+Now you can proceed as a regular installation.

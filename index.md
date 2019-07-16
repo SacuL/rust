@@ -1,6 +1,6 @@
 ## Rust reference
 
-[Intro](#intro-what-is-rust) | [Install](#windows_install) | [Docs](#docs)
+[Intro](#intro-what-is-rust) | [Install](#windows_install) | [Docs](#docs) | [Begin](#begin)
 
 **Disclaimer**: This blog is being written while I venture into the world of Rust. Any correction or suggestion are welcome via [PR](https://github.com/SacuL/sacul.github.io).
 
@@ -18,10 +18,14 @@ For Windows instructions see: [Windows install](windows_install).
 
 ### Docs
 
-The ```rustup``` setup also install an offline documentation. Run ```rustup doc``` to browse. 
+The `rustup` setup also install an offline documentation. Run `rustup doc` to browse. 
 Additionally, the [official site](https://www.rust-lang.org/learn) recommends:
  - "the book" ([The Rust Programming Language](https://doc.rust-lang.org/book/))
  - [rustlings](https://github.com/rust-lang/rustlings/): a collection of "small exercises to get you used to reading and writing Rust"
  - [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/): collection of runnable examples and exercises
  
 I've begun my journey by reading "the book", but I also intend on checking the other two resources. I'll come back here with my personal thoughts on each of those.
+
+### Begin
+
+The [`Hello, World!` example](hello_world).
