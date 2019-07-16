@@ -1,4 +1,4 @@
-# Rust Windows Install
+## Rust Windows Install
 
 [Regular install](#how-to-install-rust-on-windows) | [Behind a proxy install](#how-to-install-rust-on-windows-behind-a-proxy)
 
