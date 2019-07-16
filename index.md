@@ -1,6 +1,6 @@
 ## Rust reference
 
-[Intro](#intro-what-is-rust) | [Install](#windows_install.md) | [Docs](#docs)
+[Intro](#intro-what-is-rust) | [Install](#windows_install) | [Docs](#docs)
 
 **Disclaimer**: This blog is being written while I venture into the world of Rust. Any correction or suggestion are welcome via [PR](https://github.com/SacuL/sacul.github.io).
 
@@ -13,7 +13,7 @@ Rust is a programming language that balances the power of writing low level code
 
 ### Install
 
-For Windows instructions see: [Windows install](windows_install.md).
+For Windows instructions see: [Windows install](windows_install).
 
 
 ### Docs
