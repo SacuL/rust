@@ -1,4 +1,3 @@
-## Rust reference
 
 [Intro](#intro-what-is-rust) | [Install](#windows_install) | [Docs](#docs) | [Begin](#begin)
 
@@ -29,3 +28,8 @@ I've begun my journey by reading "the book", but I also intend on checking the o
 ### Begin
 
 The [`Hello, World!` example](hello_world).
+
+
+##### Legal
+
+The Rust logo is owned by Mozilla and distributed under the terms of the [Creative Commons Attribution license (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
