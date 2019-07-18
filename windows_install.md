@@ -1,7 +1,7 @@
 
 [Regular install](#how-to-install-rust-on-windows) | [Behind a proxy install](#how-to-install-rust-on-windows-behind-a-proxy)
 
-### How to install Rust on Windows
+# How to install Rust on Windows
 
 The recommended installation method for Windows is through the [RUSTUP-INIT.EXE tool](https://www.rust-lang.org/tools/install).
 
@@ -13,7 +13,7 @@ If you run into the following errors you might be behid a proxy: "could not down
 
 
 
-### How to install Rust on Windows behind a proxy
+# How to install Rust on Windows behind a proxy
 
 If you are behind a proxy, first download the [RUSTUP-INIT.EXE tool](https://www.rust-lang.org/tools/install) from the official Rust site.
 

@@ -1,5 +1,5 @@
 
-### The `Hello, World!` example in Rust
+# The `Hello, World!` example in Rust
 `main.rs`
 ```rust
 fn main() {
@@ -17,7 +17,7 @@ Running:
 $ ./main      #Linux/macOS
 ```
 
-### Takeaways
+# Takeaways
  - The `main` function is the entry point of the program
  - Rust style is to indent with four spaces, not a tab
  - `println!` calls a Rust macro, not a function
