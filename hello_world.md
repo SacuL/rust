@@ -1,5 +1,3 @@
-## Hello World
-
 
 ### The `Hello, World!` example in Rust
 `main.rs`
