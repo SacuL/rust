@@ -1,4 +1,3 @@
-## Rust Windows Install
 
 [Regular install](#how-to-install-rust-on-windows) | [Behind a proxy install](#how-to-install-rust-on-windows-behind-a-proxy)
 
@@ -28,8 +27,9 @@ Depending on your network configuration you will have to specify your domain, us
 ```powershell
 > $proxy='http://<DOMAIN>%5C<USER>:<PASSWORD>@<IP>:<PORT>'
 ```
-Note that `5C` is the code for backslash.
-Finally update the ENV variable and execute the tool:
+Note that `%5C` is the code for backslash.
+
+Finally update the `ENV` variable and execute the tool:
 ```powershell
 > $ENV:HTTP_PROXY=$proxy 
 > $ENV:HTTPS_PROXY=$proxy
