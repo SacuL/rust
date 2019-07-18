@@ -27,9 +27,11 @@ I've begun my journey by reading "the book", but I also intend on checking the o
 
 ### Begin
 
-The [`Hello, World!` example](hello_world).
+Let's begin with the [`Hello, World!` example](hello_world).
 
-
+&nbsp;
+&nbsp;
+___
 ##### Legal
 
 The Rust logo is owned by Mozilla and distributed under the terms of the [Creative Commons Attribution license (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
