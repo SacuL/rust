@@ -65,12 +65,14 @@ The `cargo check` checks if the project build. It is a much faster way to check 
 
 ### Cargo behind proxy
 
-If you are using a proxy, you might have to configure Cargo to work with your proxy. Instructions [HERE](cargo_proxy).
+If you are using a proxy, you might have to configure Cargo to work with your proxy. Instructions [here](cargo_proxy).
 
 ### The Cargo.lock file
 
-From "The Book":
+From "[The Book](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html#building-and-running-a-cargo-project)":
 > Running cargo build for the first time also causes Cargo to create a new file at the top level: Cargo.lock. This file keeps track of the exact versions of dependencies in your project. This project doesn’t have dependencies, so the file is a bit sparse. You won’t ever need to change this file manually; Cargo manages its contents for you.
+
+More info on the Cargo.lock file [here](cargo_lock).
 
 # Takeaways
  - Create a new project with cargo: `cargo new`
