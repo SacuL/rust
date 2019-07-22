@@ -1,5 +1,5 @@
 
-[Regular install](#how-to-install-rust-on-windows) | [Behind a proxy install](#how-to-install-rust-on-windows-behind-a-proxy)
+[Regular install](#how-to-install-rust-on-windows) | [Behind a proxy install](#how-to-install-rust-on-windows-behind-a-proxy) | [Configure Cargo w/ proxy](cargo_proxy)
 
 # How to install Rust on Windows
 
@@ -38,4 +38,5 @@ Finally update the `ENV` variable and execute the tool:
 
 ![windows_install_proxy_1](images/windows_install_proxy_1.png)
 
-Now you can proceed as a regular installation.
+Now you can proceed as a regular installation. You might also want to configure [Cargo](cargo_proxy) to work with you proxy.
+
