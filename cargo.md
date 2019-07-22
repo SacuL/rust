@@ -1,5 +1,5 @@
 
-[Intro](#what-is-cargo) | [Creating a project](#creating-a-project-with-cargo) | [Takeaways](#takeaways)
+[Intro](#what-is-cargo) | [Creating a project](#creating-a-project-with-cargo) | [The Cargo config file](#the-cargo-configuration-file) | [Building and Running](#building-and-running-a-cargo-project) | [Takeaways](#takeaways)
 
 # What is Cargo?
 
