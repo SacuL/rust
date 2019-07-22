@@ -63,6 +63,10 @@ The `cargo run` command build and execute the project.
 
 The `cargo check` checks if the project build. It is a much faster way to check if your project compiles.
 
+### Cargo behind proxy
+
+If you are using a proxy, you might have to configure Cargo to work with your proxy. Instructions [HERE](cargo_proxy).
+
 ### The Cargo.lock file
 
 From "The Book":

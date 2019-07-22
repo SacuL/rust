@@ -38,5 +38,5 @@ Finally update the `ENV` variable and execute the tool:
 
 ![windows_install_proxy_1](images/windows_install_proxy_1.png)
 
-Now you can proceed as a regular installation. You might also want to configure [Cargo](cargo_proxy) to work with you proxy.
+Now you can proceed as a regular installation. You might also want to configure [Cargo](cargo_proxy) to work with your proxy.
 
