@@ -17,3 +17,8 @@ In Rust, variables are immutable by default. To make a variable mutable use mut 
 let foo = 5; // immutable
 let mut bar = 5; // mutable
 ```
+
+## TODO:
+
+add: https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html
+and https://doc.rust-lang.org/book/ch03-02-data-types.html
