@@ -1,6 +1,6 @@
 # Cargo.lock
 
-WORK IN PROGRESS
+WORK IN PROGRESS 
 
 The `Cargo.lock` is a file generated when you build a Rust project with Cargo for the first time.
 
@@ -17,16 +17,17 @@ From "[The Book](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html#buildin
 
 > But by default, Cargo will only look for versions greater than 0.3.0 and less than 0.4.0. If the rand crate has released two new versions, 0.3.15 and 0.4.0, you would see the following if you ran cargo update:
 
-```
+```shell
 $ cargo update
     Updating registry `https://github.com/rust-lang/crates.io-index`
     Updating rand v0.3.14 -> v0.3.15
-At this point, you would also notice a change in your Cargo.lock file noting that the version of the rand crate you are now using is 0.3.15.
 ```
+> At this point, you would also notice a change in your Cargo.lock file noting that the version of the rand crate you are now using is 0.3.15.
+
 
 > If you wanted to use rand version 0.4.0 or any version in the 0.4.x series, you’d have to update the Cargo.toml file to look like this instead:
 
-```
+```toml
 [dependencies]
 
 rand = "0.4.0"
