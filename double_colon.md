@@ -4,7 +4,7 @@ In Rust, the `::` syntax indicates an associated function. An associated functio
 
 ## Example
 
-```
+```rust
 let mut texto = String::new();
 ```
 
